@@ -1,0 +1,16 @@
+*.csproj
+*.rar
+*.cache
+*.json
+*/obj*/*
+*/bin/*
+*.g.*
+*.exe
+*.pdb
+*.dll
+*.editorconfig
+*.txt
+*.jpeg
+*.jpg
+*.pdf
+*.md
